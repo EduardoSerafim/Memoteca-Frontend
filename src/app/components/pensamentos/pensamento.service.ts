@@ -8,6 +8,8 @@ import { Observable } from 'rxjs';
 })
 export class PensamentoService {
 
+
+  // Para o Json-Server como backend
   // private readonly API:string = "http://localhost:3000/pensamentos"
 
   private readonly API:string = "/api/pensamento"
